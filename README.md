@@ -1,14 +1,14 @@
-<h1>Data Modeling: Employee Role and Project Assignment</h1>
+<h1>Data Modeling: Online Tutor Marketplace</h1>
 
 
 <h2>Overview</h2>
-Developed logical and physical data model demos using Oracle SQL Developer Data Modeler. Lorem Ipsum
+Designed and implemented the data model for an online tutor marketplace from logical to physical stages using Oracle SQL Developer Data Modeler. Generated Data Definition Language (DDL) scripts for MySQL and simulated production changes using Delta Scripts.
 <br />
 
 
 <h2>Skills </h2>
 
-Lorem Ipsum
+Skills: Oracle SQL Developer Data Modeler, Conceptual/Logical/Physical Data Modeling, DDL Script Generation, Delta Script Implementation.
 
 <h2>Documentation:</h2>
 
