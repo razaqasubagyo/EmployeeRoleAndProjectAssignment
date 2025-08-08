@@ -6,13 +6,6 @@ Developed logical and physical data model demos using Oracle SQL Developer Data 
 <br />
 
 
-<h2>Key Highlights</h2>
-
-- **Logical Data Model:** Lorem Ipsum
-
-- **Physical Data Model:** Lorem Ipsum
-
-
 <h2>Skills </h2>
 
 Lorem Ipsum
